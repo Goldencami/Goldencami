@@ -8,10 +8,10 @@ I'm a computer science student passionate about:
 <ul>
   <li>🤖 Artificial Intelligence & Machine Learning</li>
   <li>⚽ Sports tech — tracking athlete performance</li>
-  <li>🦾 Robotics fundamentals with a hands-on approach (Arduino)</li>
 </ul>
 <p>
-I recently completed an internship building VR experiences and 3D content tools for Meta Quest 3, and I'm currently exploring how ML can improve human-computer interaction in AR and sports environments.
+I recently completed an internship building VR experiences and 3D content tools for Meta Quest 3, and I'm currently exploring how ML can improve human-computer interaction in robotics.
+<!--   in sports environments. -->
 </p>
 
 <h3 align="left">🌱 Currently Learning</h3>
