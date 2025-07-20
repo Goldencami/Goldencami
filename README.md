@@ -97,6 +97,7 @@ I recently completed an internship building VR experiences and 3D content tools 
 
 - **GitHub**: [Goldencami](https://github.com/Goldencami)
 - **LinkedIn**: [Camila Guzman](https://www.linkedin.com/in/camila-guzman023/)
+- **Website**: [camilaguzman.me](https://camilaguzman.me/)
 - **Languages**: English, French, Spanish
 
 ###
