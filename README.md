@@ -18,7 +18,7 @@ I recently completed an internship building VR experiences and 3D content tools 
 
 - 🔭 Machine Learning for object detection, pose tracking, and adaptive UIs
 
-- 🦾 Robotics fundamentals with a hands-on approach (Arduino)
+- 🦾 Robotics fundamentals with a hands-on approach (Arduino & Raspberry Pi 5)
 
 - 📝 Real-time data visualization and storage without external databases
   
