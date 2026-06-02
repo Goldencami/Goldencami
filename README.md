@@ -48,7 +48,7 @@ I'm a computer science student passionate about:
   <img width="12" />
   <img src="https://img.shields.io/badge/ESP32-WiFi%20MCU-3C3C3D?style=for-the-badge&logo=espressif&logoColor=white" height="28" alt="esp32" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
+  <img src="https://img.shields.io/badge/Arduino-Microcontroller-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="28" alt="arduino" />
   <img width="12" />
   <img src="https://img.shields.io/badge/I2C-Protocol-blue?style=for-the-badge" height="28" alt="i2c" />
   <img width="12" />
